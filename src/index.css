@@ -1,0 +1,8 @@
+body {
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fff8f0; /* soft, warm background */
+  color: #333; /* readable text color */
+  line-height: 1.6;
+}
