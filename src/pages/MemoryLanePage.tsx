@@ -9,23 +9,23 @@ import img5 from "../assets/IMG_5421.jpg";
 const memories = [
   { 
     photo: img1, 
-    note: "Our very first date 💖" 
+    note: "💖" 
   },
   { 
     photo: img2, 
-    note: "That amazing trip together ✈️" 
+    note: "✈️" 
   },
   { 
     photo:img3,
-    note: "That hilarious moment 😂" 
+    note: "😂" 
   },
     { 
     photo:img4,
-    note: "That hilarious moment 😂" 
+    note: "💒" 
   },
     { 
     photo:img5,
-    note: "That hilarious moment 😂" 
+    note: "🍻" 
   },
   // Add more memories here
 ];
